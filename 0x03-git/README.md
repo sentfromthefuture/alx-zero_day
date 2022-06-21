@@ -1,1 +1,1 @@
-starting to code today
+How to be up to date in git
